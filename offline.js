@@ -1,0 +1,31 @@
+﻿{
+	"version": 1763418121,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/backgroundtile.png",
+		"images/player-sheet0.png",
+		"images/player-sheet1.png",
+		"images/solidtile.png",
+		"images/jumpthrutile.png",
+		"images/tiledbackground.png",
+		"images/tiledbackground2.png",
+		"images/tiledbackground3.png",
+		"images/startbutton.png",
+		"images/tiledbackground5.png",
+		"images/optionbutton.png",
+		"images/sprite-sheet0.png",
+		"images/enemy-sheet0.png",
+		"images/enemy-sheet1.png",
+		"images/enemy-sheet2.png",
+		"images/edgedetector.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
