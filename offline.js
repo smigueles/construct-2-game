@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1764197149,
+	"version": 1764210242,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -29,11 +29,17 @@
 		"images/tiledbackground11.png",
 		"images/tiledbackground12.png",
 		"images/sprite3-sheet0.png",
+		"images/spritefont.png",
+		"images/spritefont2.png",
+		"images/spritefont4.png",
+		"images/spritefont5.png",
+		"images/spritefont7.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
-		"loading-logo.png"
+		"loading-logo.png",
+		"hard race.otf"
 	]
 }
