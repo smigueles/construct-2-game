@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1771882324,
+	"version": 1771883455,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -32,6 +32,8 @@
 		"images/tiledbackground13.png",
 		"images/spritefont.png",
 		"images/sprite3-sheet0.png",
+		"images/sprite4-sheet0.png",
+		"images/sprite5-sheet0.png",
 		"media/nivel-1_-basura-galáctica.m4a",
 		"media/nivel-1_-basura-galáctica.ogg",
 		"media/ancient-signal.m4a",
