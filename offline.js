@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1764210242,
+	"version": 1771882324,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -28,18 +28,24 @@
 		"images/tiledbackground10.png",
 		"images/tiledbackground11.png",
 		"images/tiledbackground12.png",
-		"images/sprite3-sheet0.png",
+		"images/boss-sheet0.png",
+		"images/tiledbackground13.png",
 		"images/spritefont.png",
-		"images/spritefont2.png",
-		"images/spritefont4.png",
-		"images/spritefont5.png",
-		"images/spritefont7.png",
+		"images/sprite3-sheet0.png",
+		"media/nivel-1_-basura-galáctica.m4a",
+		"media/nivel-1_-basura-galáctica.ogg",
+		"media/ancient-signal.m4a",
+		"media/ancient-signal.ogg",
+		"media/neon-armor.m4a",
+		"media/neon-armor.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
 		"loading-logo.png",
-		"hard race.otf"
+		"aero-webfont.woff",
+		"aero-webfont.woff2",
+		"stylesheet.css"
 	]
 }
